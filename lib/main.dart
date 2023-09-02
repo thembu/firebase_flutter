@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return StreamProvider<Users?>.value( //we are now listening to the user stream
       value: AuthService().user,
+      catchError: (_, err) =>  null,
       initialData: null,
       child: MaterialApp(
         home: Wrapper(),
