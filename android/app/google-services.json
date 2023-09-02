@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303678239856",
+    "project_id": "my-brew-52721",
+    "storage_bucket": "my-brew-52721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303678239856:android:8a10f0e6bcf2d837b3f0b5",
+        "android_client_info": {
+          "package_name": "com.example.fire_base_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303678239856-0i43dsgov4g2d7hmi6vo28eo8mrdm67r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JoEKrU2Y7NngHNPMmCLwv5uq9ww_DTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303678239856-0i43dsgov4g2d7hmi6vo28eo8mrdm67r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
